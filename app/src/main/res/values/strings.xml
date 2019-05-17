@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AwakeLOL</string>
+
+    <string name="button_buscar_partida">Buscar Partida</string>
+    <string name="button_login">Login</string>
+
+    <string name="text_login">Username</string>
+
+    <string name="hint_login">Summoner Name</string>
+</resources>
